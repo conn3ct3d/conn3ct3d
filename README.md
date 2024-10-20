@@ -1,6 +1,6 @@
   @conn3ct3d
   # Full-stack developer 💻 based in the middle of the desert 🌵☀️.
-- **Currently learning**: Java, Python in depth
+- **Currently learning**: Java, API's in Python
 - **Languages:** JavaScript, Python.
 - **Tech Stack:** React, Node.js, MongoDB, MySQL
   
